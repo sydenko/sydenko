@@ -57,5 +57,5 @@ https://gist.github.com/Jekins/2bf2d0638163f1294637
 -->
 
 ***
-Використовую: `Apache`, `PHP`, `HTML5`, `CSS`, 'SVG', `JavaScript`, `Processing`, `Arduino`, `C++`
+Використовую: `Apache`, `PHP`, `HTML5`, `CSS`, `SVG`, `JavaScript`, `Processing`, `Arduino`, `C++`
 [Для форматування цього документа використовувався Markdown](https://gist.github.com/Jekins/2bf2d0638163f1294637 "тут описан синтаксис README.md файла")
