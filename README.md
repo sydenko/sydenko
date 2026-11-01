@@ -3,9 +3,17 @@
 - 👀 Цікавить автоматизація виробництва
 - 🌱 Підбираю зручні засоби для творчості
 - 💞️ Шукаю однодумців
-- ![Lumo][<img src="/sydenko/sydenko/raw/main/lumo.svg" width="72" align="left" alt="Lumo">] Знайшов гарного асистента Lumo
+- ![Lumo](lumo.svg) Знайшов гарного асистента Lumo
 - <img src="/sydenko/sydenko/raw/main/lumo.svg" width="72" align="left" alt="Lumo"> текст
 - 📫 Поштові адреси вказані нижче в таблиці
+
+- 📫 Поштові адреси вказані нижче в таблиці
+
+<img src="/sydenko/sydenko/raw/main/lumo.svg" width="72" align="left" alt="Lumo">
+
+**Знайшов гарного асистента Lumo**
+
+
 <!--- А где искать эти -ВАУ :coffee: :pizza:, и :dancer: ?
 ([Нравится мне так оформлять](https://gist.github.com/Jekins/2bf2d0638163f1294637 "тут описан синтаксис README.md файла"))
 
