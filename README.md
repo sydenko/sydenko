@@ -2,13 +2,10 @@
 - 👋 я Віталій  
 - 👀 Цікавить автоматизація виробництва
 - 🌱 Підбираю зручні засоби для творчості
-- 💞️ Шукаю однодумців
-- ![Lumo](lumo.svg) Знайшов гарного асистента Lumo
-- <img src="lumo.svg" width="72" align="left" alt="Lumo"> коротка
-- <img src="https://github.com/sydenko/sydenko/raw/main/lumo.svg" width="72" align="left" alt="Lumo"> повна
+- 💞️ Шукаю однодумців <!-- ![Lumo](lumo.svg) Знайшов гарного асистента Lumo -->
+- <img src="lumo.svg" width="24" align="left" alt="Lumo">Знайшов гарного асистента Lumo
+- <img src="https://github.com/sydenko/sydenko/raw/main/lumo.svg" width="24" align="left" alt="Lumo">Знайшов гарного асистента Lumo
 - 📫 Поштові адреси вказані нижче в таблиці
-- **Знайшов гарного асистента Lumo**
-
 
 <!--- А где искать эти -ВАУ :coffee: :pizza:, и :dancer: ?
 ([Нравится мне так оформлять](https://gist.github.com/Jekins/2bf2d0638163f1294637 "тут описан синтаксис README.md файла"))
