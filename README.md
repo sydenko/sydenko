@@ -22,7 +22,7 @@ https://gist.github.com/Jekins/2bf2d0638163f1294637
 </tr>
 <tr>
 <td>sydenko@ukr.net</td>
-<td>Для більшості листуванн</td>
+<td>Для більшості листувань</td>
 </tr>
 <tr>
 <td>sydenko@2upost.ck.ua</td>
