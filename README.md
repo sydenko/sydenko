@@ -4,14 +4,10 @@
 - 🌱 Підбираю зручні засоби для творчості
 - 💞️ Шукаю однодумців
 - ![Lumo](lumo.svg) Знайшов гарного асистента Lumo
-- <img src="/sydenko/sydenko/raw/main/lumo.svg" width="72" align="left" alt="Lumo"> текст
+- <img src="lumo.svg" width="72" align="left" alt="Lumo"> коротка
+- <img src="https://github.com/sydenko/sydenko/raw/main/lumo.svg" width="72" align="left" alt="Lumo"> повна
 - 📫 Поштові адреси вказані нижче в таблиці
-
-- 📫 Поштові адреси вказані нижче в таблиці
-
-<img src="/sydenko/sydenko/raw/main/lumo.svg" width="72" align="left" alt="Lumo">
-
-**Знайшов гарного асистента Lumo**
+- **Знайшов гарного асистента Lumo**
 
 
 <!--- А где искать эти -ВАУ :coffee: :pizza:, и :dancer: ?
