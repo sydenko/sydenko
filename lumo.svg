@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Lumo">
+  <!-- ============================================
+       LUMO logo — flat vector, canonical identity
+       purple #6d4aff body, wide-set horizontal
+       white oval eyes, vertical dark pupils,
+       triangular ears, V mouth, gold medallion
+       ============================================ -->
+
+  <!-- вуха (трикутні, основи ховаються під корпусом) -->
+  <polygon points="64,80 112,74 70,14"  fill="#6d4aff"/>
+  <polygon points="176,80 128,74 170,14" fill="#6d4aff"/>
+
+  <!-- корпус: stocky, сильно заокруглений -->
+  <rect x="32" y="56" width="176" height="144" rx="52" fill="#6d4aff"/>
+
+  <!-- очі: горизонтально витягнуті білі овали, широко рознесені -->
+  <ellipse cx="90"  cy="138" rx="38" ry="23" fill="#ffffff"/>
+  <ellipse cx="150" cy="138" rx="38" ry="23" fill="#ffffff"/>
+
+  <!-- зіниці: маленькі вертикальні овали -->
+  <ellipse cx="90"  cy="140" rx="9" ry="14" fill="#2B2140"/>
+  <ellipse cx="150" cy="140" rx="9" ry="14" fill="#2B2140"/>
+
+  <!-- рот: крихітна V -->
+  <path d="M 104 174 L 118 186 L 132 174" fill="none"
+        stroke="#2B2140" stroke-width="5"
+        stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- шнур + медальйон -->
+  <polyline points="70,196 120,214 170,196" fill="none"
+            stroke="#FFC53D" stroke-width="3"
+            stroke-linecap="round"/>
+  <circle cx="120" cy="216" r="12" fill="#FFC53D"/>
+  <circle cx="120" cy="216" r="12" fill="none" stroke="#E8A800" stroke-width="1.5"/>
+</svg>
