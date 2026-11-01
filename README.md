@@ -15,7 +15,7 @@ https://gist.github.com/Jekins/2bf2d0638163f1294637
 ### `Контактні дані`
 <table>
 <tr>
-<th>e-meil</th>
+<th>email</th>
 <th>Призначення</th>
 </tr>
 <tr>
