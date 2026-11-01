@@ -3,9 +3,9 @@
 - 👀 Цікавить автоматизація виробництва
 - 🌱 Підбираю зручні засоби для творчості
 - 💞️ Шукаю однодумців <!-- ![Lumo](lumo.svg) Знайшов гарного асистента Lumo -->
-- <img src="lumo.svg" width="24" align="left" alt="Lumo">Знайшов гарного асистента Lumo. (відкривається в GitHub сторінці)
-- <img src="https://github.com/sydenko/sydenko/raw/main/lumo.svg" width="24" align="left" alt="Lumo">Знайшов гарного асистента Lumo (відкривається в RAW)
-- <a href="https://github.com/sydenko/sydenko/blob/main/lumo.svg"><img src="https://github.com/sydenko/sydenko/raw/main/lumo.svg" width="24" alt="Lumo"></a>Знайшов гарного асистента Lumo (правильний варіант)
+<!-- - <img src="lumo.svg" width="24" align="left" alt="Lumo">Знайшов гарного асистента Lumo. (відкривається в GitHub сторінці)
+- <img src="https://github.com/sydenko/sydenko/raw/main/lumo.svg" width="24" align="left" alt="Lumo">Знайшов гарного асистента Lumo (відкривається в RAW) -->
+- <a href="https://github.com/sydenko/sydenko/blob/main/lumo.svg"><img src="https://github.com/sydenko/sydenko/raw/main/lumo.svg" width="24" alt="Lumo"></a>Знайшов гарного асистента Lumo <!-- (правильний варіант) -->
 - 📫 Поштові адреси вказані нижче в таблиці
 
 <!--- А где искать эти -ВАУ :coffee: :pizza:, и :dancer: ?
