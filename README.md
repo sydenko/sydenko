@@ -4,8 +4,9 @@
 - 🌱 Підбираю зручні засоби для творчості
 - 💞️ Шукаю однодумців <!-- ![Lumo](lumo.svg) Знайшов гарного асистента Lumo --> <!-- - <img src="lumo.svg" width="24" align="left" alt="Lumo">Знайшов гарного асистента Lumo. (відкривається в GitHub сторінці) - <img src="https://github.com/sydenko/sydenko/raw/main/lumo.svg" width="24" align="left" alt="Lumo">Знайшов гарного асистента Lumo (відкривається в RAW) -->
 - <a href="https://github.com/sydenko/sydenko/blob/main/lumo.svg"><img src="https://github.com/sydenko/sydenko/raw/main/lumo.svg" width="24" alt="Lumo"></a>Знайшов гарного асистента Lumo <!-- (правильний варіант) -->
+<!--
 - 📫 Поштові адреси вказані нижче в таблиці
-
+-->
 <!--- А где искать эти -ВАУ :coffee: :pizza:, и :dancer: ?
 ([Нравится мне так оформлять](https://gist.github.com/Jekins/2bf2d0638163f1294637 "тут описан синтаксис README.md файла"))
 
@@ -13,6 +14,7 @@ sydenko/sydenko — это ✨ специальный ✨ репозиторий
 Вы можете щелкнуть ссылку «Предварительный просмотр», чтобы просмотреть свои изменения.
 https://gist.github.com/Jekins/2bf2d0638163f1294637
 --->
+<!--
 ### `Контактні дані`
 <table>
 <tr>
@@ -36,7 +38,7 @@ https://gist.github.com/Jekins/2bf2d0638163f1294637
     <td>З'явився нещодавно</td>
   </tr>
 </table>
-
+-->
 ***
 
 <!---Также в роли почтового мессенжера может служить [мой домашний сайт-сервер](http://78.137.5.182 "На доменном имени экономлю поэтому вход по IP адресу").  --->
